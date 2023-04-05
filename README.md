@@ -2,7 +2,7 @@
 
 ## Background
 
-Welcome to the world of programming with Python. This is a two part data analysis using python script development with a given data set to determine the following analysis: 
+This is a two part data analysis using python script development and importing data from a csv file to complete financial and voter polling analyses.  
 
 FINANCIAL ANALYSIS: 
 
